@@ -1,0 +1,30 @@
+# macOS / editor
+.DS_Store
+.vscode/
+
+# environment files
+.env
+backend/.env
+frontend/.env
+
+# logs
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Node
+node_modules/
+dist/
+
+# local virtual environments
+venv/
+.venv/
+
+# coverage
+coverage/
+htmlcov/

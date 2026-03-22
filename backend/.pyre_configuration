@@ -1,0 +1,14 @@
+{
+  "source_directories": [
+    "."
+  ],
+  "python_executable": "/Users/apple/Documents/blog-app/backend/venv/bin/python",
+  "site_package_search_strategy": "pep561",
+  "search_path": [
+    "/Users/apple/Documents/blog-app/backend/venv/lib/python3.9/site-packages"
+  ],
+  "exclude": [
+    ".*/venv/.*",
+    ".*/__pycache__/.*"
+  ]
+}
